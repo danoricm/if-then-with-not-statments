@@ -1,0 +1,6 @@
+# ifnotthen.icon
+procedure main()
+    x := 10
+    if x ~= 10 then
+        write("x is not 10")
+end

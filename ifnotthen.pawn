@@ -1,0 +1,6 @@
+// ifnotthen.p
+new x = 10;
+
+if (x != 10) {
+    printf("x is not 10\n");
+}

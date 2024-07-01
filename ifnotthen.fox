@@ -1,0 +1,6 @@
+* ifnotthen.fox
+x = 10
+
+IF x <> 10
+    ? "x is not 10"
+ENDIF

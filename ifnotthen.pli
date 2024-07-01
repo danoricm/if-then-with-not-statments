@@ -1,0 +1,6 @@
+/* ifnotthen.pli */
+DCL x FIXED DECIMAL(5) INIT(10);
+
+IF x <> 10 THEN
+    PUT LIST('x is not 10');
+END IF;

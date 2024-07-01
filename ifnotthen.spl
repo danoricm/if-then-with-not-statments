@@ -1,0 +1,10 @@
+# ifnotthen.spl
+PROGRAM
+    VAR
+        x : INTEGER;
+    BEGIN
+        x := 10;
+        IF x <> 10 THEN
+            WRITELN("x is not 10");
+        ENDIF;
+    END.

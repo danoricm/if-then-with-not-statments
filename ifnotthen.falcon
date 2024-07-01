@@ -1,0 +1,6 @@
+// ifnotthen.falcon
+x = 10
+
+if x != 10
+    > "x is not 10"
+end

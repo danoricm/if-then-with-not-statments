@@ -1,0 +1,4 @@
+|| ifnotthen.miranda
+x = 10
+
+main = [ if x ~= 10 then "x is not 10" else "" ]
